@@ -14,7 +14,7 @@ source ~/.bashrc
 pkg install git -y
 
 # Clone the repository
-git clone https://github.com/ph502/CDN
+git clone https://github.com/ph502/binary
 
 # Enter the folder binary
 cd binary/
